@@ -1,0 +1,1215 @@
+fileFormatVersion: 2
+guid: 1a5e4c0f702f10f43a0fd0398e83a166
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 787
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e731fb2b4f7c2e4096776e7b43b9da9
+      internalID: 1284023980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 787
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057f111ae1edaef4bb5b8f61cad1de50
+      internalID: -216896891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 787
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af5f36c1a930d47ae1f37e1225eebf
+      internalID: 2011932569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 787
+        width: 63
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f307767d83d446bb0570965789520
+      internalID: 72729002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 787
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae650d598f496cd4b9f61709f536a5c7
+      internalID: 421287402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 787
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb8d6bb5ee8564184af356e0896613
+      internalID: -164433297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 787
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7039706a8dc7744ac5ed3521a8d14c
+      internalID: 1919375072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 787
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30df582c2e0e01459b38c6519d5a46c
+      internalID: 1120248992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 669
+        width: 118
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d51a72718ba5c4e8e3fefabe5cc9cc
+      internalID: 1328885971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 669
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b6ed401c6f7e747ae6c7bd53980ae1
+      internalID: -2039255260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 669
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254b376cff19444a817a90116906e8a
+      internalID: -2080600758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 540
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f832db97a16710544acffb4cb83fae5c
+      internalID: -119475546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 540
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212c4360dd9d56408e3b0894e518902
+      internalID: 2032875105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 540
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a39832dc922729409b7a82a8f05a643
+      internalID: -2002485344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 540
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d6acadaa1d153439621bed47f94f35
+      internalID: -96193855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 540
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44296e649e24a458d6f1d4427d5265
+      internalID: 1252071128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee841846d2924438ad5bcf19b8156b
+      internalID: -94523647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 422
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867191a04f546354eb54c26b8dd1f8ff
+      internalID: 2072615762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 422
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936563c11ba9fb24f9cbdf509f6e0d88
+      internalID: -897350682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 422
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fabf1695eedb54e90a872a99870f3f
+      internalID: 1302018107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 422
+        width: 146
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed814b758e218b408e36110f3b37efa
+      internalID: 565900271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9698542c15d47a649af0bd9d3faba580
+      internalID: -683838710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 307
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804c044060934554bb9f308a7805e5b7
+      internalID: 915247950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 307
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80053b66e8c59fc40af8a190b1044eb5
+      internalID: -83196755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 307
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a457eaa11d26c4c91aacf7925a2df2
+      internalID: 2101499257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 307
+        width: 152
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed97cea726dcb34428a6ce87af73fb4b
+      internalID: -620209756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a60cf29ae0da042b23aef2c98f5981
+      internalID: -2048628089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 186
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f4a5b1b8f87c0449d73d47cc56da3c
+      internalID: -1334225826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 186
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a1ae9b15eb094799acfd658505142
+      internalID: -1609868493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_60
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 186
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0641a385f8077184692f620727b56dc8
+      internalID: 284605891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_61
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 186
+        width: 162
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd6cd35c285e1144a7e63b419f93676
+      internalID: -1587879692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_62
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 186
+        width: 162
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb028d63b7e81947a5a7a763f1557cf
+      internalID: 562197301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205350c23d50d964ea6e66b58a4a1ef8
+      internalID: 579303287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60eaa7d8453ab6408baaef2840c1112
+      internalID: -769930126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bb556ff740e444eb138f2cabcc5e82
+      internalID: -332183447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 75
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dcf77d93b746c48aea77bee230f9b6
+      internalID: -713770377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 75
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da16ce3adeb9bc4cb1e02b89646df40
+      internalID: 652612900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 75
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d9a6aca6a2c894c97fe89696cda428
+      internalID: 1270782351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 75
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3a9ca1b687334cb5ad44a1bea3a72
+      internalID: 157193796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_70
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 75
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce7d6e09b14644fa38aaeaa3dff15c
+      internalID: -2043174473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_71
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 75
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f532e59e2632f42842671abf0ebb90
+      internalID: -270189407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_72
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 75
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f52a98b5eb18b48bfa244041ad1a68
+      internalID: -1809333318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 138
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8413c91039a84e863be1a79106000
+      internalID: -1789808336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_74
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 144
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f3c7b5eada9e94db3bef4516c87568
+      internalID: 1993446557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_75
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 162
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c68535e155e442b462d2118b9404d
+      internalID: 1472887804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_76
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 171
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a40f56f05850f4fb0624d3e80a5166
+      internalID: 1546287309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: La Raux Boss lvl1_77
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 130
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfca24660fa0b342b2e0ba6f271db7b
+      internalID: 1851134160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      La Raux Boss lvl1_32: 1912279587
+      La Raux Boss lvl1_14: -96193855
+      La Raux Boss lvl1_11: -119475546
+      La Raux Boss lvl1_68: 1270782351
+      La Raux Boss lvl1_76: 1546287309
+      La Raux Boss lvl1_10: -2080600758
+      La Raux Boss lvl1_1: -216896891
+      La Raux Boss lvl1_25: -620209756
+      La Raux Boss lvl1_60: 284605891
+      La Raux Boss lvl1_23: -83196755
+      La Raux Boss lvl1_79: 97924878
+      La Raux Boss lvl1_50: 592020671
+      La Raux Boss lvl1_6: 1919375072
+      La Raux Boss lvl1_36: -470212932
+      La Raux Boss lvl1_42: -519838446
+      La Raux Boss lvl1_5: -164433297
+      La Raux Boss lvl1_39: -852420141
+      La Raux Boss lvl1_28: 1319887198
+      La Raux Boss lvl1_2: 2011932569
+      La Raux Boss lvl1_20: 565900271
+      La Raux Boss lvl1_35: -1736047329
+      La Raux Boss lvl1_26: 518870232
+      La Raux Boss lvl1_7: 1120248992
+      La Raux Boss lvl1_34: -1818684811
+      La Raux Boss lvl1_69: 157193796
+      La Raux Boss lvl1_3: 72729002
+      La Raux Boss lvl1_61: -1587879692
+      La Raux Boss lvl1_45: -1166493693
+      La Raux Boss lvl1_70: -2043174473
+      La Raux Boss lvl1_19: 1302018107
+      La Raux Boss lvl1_72: -1809333318
+      La Raux Boss lvl1_66: -713770377
+      La Raux Boss lvl1_46: -1673842622
+      La Raux Boss lvl1_4: 421287402
+      La Raux Boss lvl1_40: 291770246
+      La Raux Boss lvl1_53: -261350099
+      La Raux Boss lvl1_75: 1472887804
+      La Raux Boss lvl1_18: -897350682
+      La Raux Boss lvl1_44: -885733669
+      La Raux Boss lvl1_67: 652612900
+      La Raux Boss lvl1_16: -94523647
+      La Raux Boss lvl1_73: -1789808336
+      La Raux Boss lvl1_74: 1993446557
+      La Raux Boss lvl1_37: -201757502
+      La Raux Boss lvl1_54: 1423509290
+      La Raux Boss lvl1_27: -1036702098
+      La Raux Boss lvl1_41: 1372995092
+      La Raux Boss lvl1_62: 562197301
+      La Raux Boss lvl1_0: 1284023980
+      La Raux Boss lvl1_77: 1851134160
+      La Raux Boss lvl1_9: -2039255260
+      La Raux Boss lvl1_47: 958362312
+      La Raux Boss lvl1_13: -2002485344
+      La Raux Boss lvl1_22: 915247950
+      La Raux Boss lvl1_52: -34108878
+      La Raux Boss lvl1_63: 579303287
+      La Raux Boss lvl1_12: 2032875105
+      La Raux Boss lvl1_8: 1328885971
+      La Raux Boss lvl1_31: 295914220
+      La Raux Boss lvl1_24: 2101499257
+      La Raux Boss lvl1_55: -1102633968
+      La Raux Boss lvl1_59: -1609868493
+      La Raux Boss lvl1_38: -972872858
+      La Raux Boss lvl1_17: 2072615762
+      La Raux Boss lvl1_57: -2048628089
+      La Raux Boss lvl1_56: 44667862
+      La Raux Boss lvl1_21: -683838710
+      La Raux Boss lvl1_29: 450967645
+      La Raux Boss lvl1_30: 1538127651
+      La Raux Boss lvl1_33: 1139177449
+      La Raux Boss lvl1_43: 921328683
+      La Raux Boss lvl1_49: 419477753
+      La Raux Boss lvl1_65: -332183447
+      La Raux Boss lvl1_78: 2112304399
+      La Raux Boss lvl1_51: 1938317894
+      La Raux Boss lvl1_58: -1334225826
+      La Raux Boss lvl1_71: -270189407
+      La Raux Boss lvl1_64: -769930126
+      La Raux Boss lvl1_15: 1252071128
+      La Raux Boss lvl1_48: 767378530
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

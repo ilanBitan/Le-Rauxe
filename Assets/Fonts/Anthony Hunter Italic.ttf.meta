@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ea1840972bacfca4cb729a31192ff793
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Anthony Hunter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 939772bf423444a4db71afec401fd082, type: 3}
+  - {fileID: 12800000, guid: b0e84882f6d02124d8a0e612980b1e71, type: 3}
+  - {fileID: 12800000, guid: b5ef71a736acbc1428e283a56c4c3578, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
