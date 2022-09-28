@@ -9,7 +9,7 @@ Le Rauxe was the first Boss in CaptainClaw game and the goal in the game is to a
 ## To Run
 Download the file "My project"
 
-you can access the game in **1builds->"My project"**
+you can access the file in **1builds->"My project"**
 
 enjoy! :)
 
